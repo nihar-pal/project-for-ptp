@@ -1,0 +1,29 @@
+*,
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #dcdcdc;
+}
+
+nav {
+	height: 10vh;
+	padding: 1rem;
+	background-color: #a9a9a9;
+}
+
+section {
+	min-height: 70vh;
+	background-color: #d3d3d3;
+	padding: 1rem;
+	border: 1px solid black;
+}
+
+footer {
+	height: 8vh;
+	padding: 1rem;
+	background-color: #808080;
+}
